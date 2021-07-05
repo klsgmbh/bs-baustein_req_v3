@@ -1,4 +1,4 @@
-# rbs_baustein_req_v2
+# rbs_baustein_req_v3 (text needs to be modified)(rbs baustein ohne skb, eid)
 
 Elemente:
 
